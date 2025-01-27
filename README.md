@@ -39,7 +39,7 @@ To run this app locally, follow these steps:
 
 ```bash
 git clone https://github.com/CodeByKalvin/Encodr.git
-cd encryption-app
+cd Encodr
 ```
 
 #### 2. Install Dependencies
