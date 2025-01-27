@@ -84,8 +84,8 @@ Example:
 
 ```bash
 Do you want to (E)ncrypt or (D)ecrypt? e
-Enter the text: Hello World
-Enter the shift value (an integer): 3
+Enter the text: Secret Text
+Enter the shift value (an integer): 5
 Encrypted Text: Khoor Zruog
 ```
 
