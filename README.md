@@ -38,7 +38,7 @@ To run this app locally, follow these steps:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/encryption-app.git
+git clone https://github.com/CodeByKalvin/Encodr.git
 cd encryption-app
 ```
 
