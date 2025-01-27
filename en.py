@@ -85,7 +85,7 @@ def aes_decrypt_image(encrypted_image_path, key, output_path):
 
 # ----------------------------- Simple CLI (codebykalvin) -----------------------------
 def main():
-    print("Welcome to the Encryption/Decryption App! (by codebykalvin)")
+    print("Welcome to the Encryption/Decryption App! (codebykalvin)")
     print("Choose an option:")
     print("1. Caesar Cipher (Text)")
     print("2. AES Encryption (Text)")
