@@ -1,4 +1,4 @@
-## Encryption and Decryption App
+## Encodr - Encryption and Decryption App
 
 A Python-based encryption and decryption application that supports multiple encryption methods, including:
 - **Caesar Cipher** (text-based encryption)
